@@ -1,2 +1,2 @@
-# acme-photograghy
+# acme-photography
 acme photography.....fully responsive
